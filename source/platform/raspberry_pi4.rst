@@ -245,7 +245,7 @@ On your Raspberry Pi:
    * Open another terminal and run the command **agm_server**
 
 On your local computer:
-   * Install ARC (also known as QACT) from `Qualcomm Developer Network <https://www.qualcomm.com/developer>`_ using `Qualcomm Software Center <https://softwarecenter.qualcomm.com/#/>`_. You will need at least QACT 8.1
+   * Install ARC (also known as QACT) on Windows host machine using :ref:`steps_to_install_arc`. You will need at least QACT 8.1
    * Open ARC, and click on "Connection configuration" option.
    * Add the Raspberry Pi as a device by adding entry
       **<Raspberry PI IP address>:5558** under the TCP/IP section
