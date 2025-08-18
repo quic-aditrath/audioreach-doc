@@ -10,3 +10,4 @@ AudioReach Developer Guides
    capi_mod_dev
    plat_port
    available_modules
+   adding_modules
