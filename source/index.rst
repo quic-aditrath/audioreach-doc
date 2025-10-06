@@ -9,6 +9,7 @@ Welcome to AudioReach
 
 Announcements
 *************
+* (10/6/2025): The newly added :ref:`dev_workflow` guide provides a starting point for developers to learn about the AudioReach developer workflow.
 
 * (8/22/2025): Two documentation pages have been recently released:
 
