@@ -200,8 +200,8 @@ To enable the sound card:
       * Make sure to uncomment this line while updating.
 
 Optional step: In the file /boot/config.txt, it is also possible to disable HDMI audio output if the Raspberry Pi will be
-connected to a display. This is helpful because it will prevent the HDMI sound card from being enumerated, which may cause
-some problems.
+connected to a display. This is helpful because if the HDMI sound card is enumerated, it may change the sound card ID of the
+Headphones device, which would require the card ID to be updated in ARC.
 
 	* Navigate to the file "/boot/config.txt"
 	* Locate the line **dtoverlay=vc4-kms-v3d**
