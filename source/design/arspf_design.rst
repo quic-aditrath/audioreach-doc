@@ -1168,7 +1168,7 @@ Customizations
 
 Custom module
 -------------
-For steps on how to add a custom module, please refer to the :ref:`adding_modules' guide.
+For steps on how to add a custom module, please refer to the :ref:`adding_modules` guide.
 
 Custom container
 ----------------
