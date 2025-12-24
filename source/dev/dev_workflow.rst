@@ -9,6 +9,7 @@ Development Workflow
 
    adding_modules
    capi_mod_dev
+   system_workflow
 
 
 The AudioReach project envisions three different profiles of audio product developers:
@@ -76,6 +77,7 @@ A system integrator is responsible for developing and integrating software compo
 This role may also involve creating new use case graphs on which the use case software will operate. 
 To successfully expand new features and functionalities into the intended product, system integrators must possess an in-depth knowledge of AudioReach constructs, software design, and relevant tools.
 
-More information about the system integrator workflow, including explanations on how calibrations for audio operations are set in AudioReach, 
+To learn about the system integrator workflow, please refer to the :ref:`system_workflow` guide. 
+For more information about the system integrator workflow, including explanations on how calibrations for audio operations are set in AudioReach, 
 please check section 4 of the AudioReach Creator guide.
 To learn more about the full design of AudioReach, please refer to the :ref:`design` pages.
